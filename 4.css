@@ -10,7 +10,7 @@ html{
     scroll-behavior: smooth;
 }
 body {
-    background-image: url(/Images/13.png);
+    background-image: url(13.png);
     background-attachment: fixed;
     color: #fff;
 }
